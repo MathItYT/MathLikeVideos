@@ -2,6 +2,7 @@
 
 En este repositorio se encuentra el código fuente de los siguientes videos de MathLike (ordenados del más nuevo hasta el más antiguo):
 
+* [1. Curso de animación en Python con Manim - Configuración del curso](https://youtu.be/37hhLFn4FKI)
 * [Problema de geometría y trigonometría - Enunciado y solución](https://youtu.be/nuQ-k5nHxOo)
 * [¡Se viene curso de Manim! Curso de animación en Python con Manim](https://youtu.be/11aAYyae55E)
 * [¡Typst en Manim y el reemplazo definitivo de LaTeX!](https://youtube.com/shorts/OHTCyHWw-ws?feature=share)

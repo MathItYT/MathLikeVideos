@@ -1,6 +1,5 @@
 from manim import *
 from logo import Logo
-from manim_course_utils import *
 from intro import Intro
 
 
