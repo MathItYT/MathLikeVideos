@@ -4,3 +4,4 @@ __pycache__
 MathLikeVideos.egg-info
 build
 typst
+Makefile
