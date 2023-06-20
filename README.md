@@ -2,6 +2,7 @@
 
 En este repositorio se encuentra el código fuente de los siguientes videos de MathLike (ordenados del más nuevo hasta el más antiguo):
 
+* [Olimpiadas de matemáticas - Ejercicio de álgebra](https://www.youtube.com/watch?v=sbRFKQfcjxw)
 * [¿CÓMO ROTAR UNA GRÁFICA RESPECTO AL ORIGEN? 🤓👆](https://www.youtube.com/shorts/V9s7IptcYWk)
 * [Manim - Animación del casino Blaze](https://youtu.be/LCuKvRxheHI)
 * [1. Curso de animación en Python con Manim - Configuración del curso](https://youtu.be/37hhLFn4FKI)

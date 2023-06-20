@@ -4,4 +4,16 @@ __pycache__
 MathLikeVideos.egg-info
 build
 typst
+temp
+out
+raster
+audio
+vector
 Makefile
+creature.py
+example_creature.py
+svg/
+editing.ipynb
+*.mp4
+aiclub.py
+.env

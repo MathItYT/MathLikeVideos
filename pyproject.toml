@@ -1,9 +1,6 @@
 [project]
 name = "MathLikeVideos"
 version = "0.0.1"
-dependencies = [
-    "manim"
-]
 
 [tool.setuptools]
-packages = ["mce"]
+packages = ["mgl"]
