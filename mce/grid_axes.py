@@ -28,7 +28,7 @@ class GridAxes(Axes):
         x_ticks = np.arange(x_min, x_max + 2 * x_step, x_step)
         y_ticks = np.arange(y_min, y_max + y_step, y_step)
 
-        grid = self.get_axes()
+        grid = VGroup()
         line_class = {False: Line, True: DashedLine}[dashed]
         if grid_kw.get("stroke_width") is None:
             grid_kw["stroke_width"] = 1

@@ -1,0 +1,23 @@
+break_into_partial_movies: false
+camera_resolutions:
+  4k: 3840x2160
+  default_resolution: high
+  high: 1920x1080
+  low: 854x480
+  medium: 1280x720
+directories:
+  mirror_module_path: false
+  output: out
+  raster_images: raster
+  sounds: audio
+  temporary_storage: temp
+  vector_images: vector
+fps: 60
+full_screen: false
+style:
+  background_color: '#222222'
+  font: CMU Serif
+  tex_template: default
+universal_import_line: from manimlib import *
+window_monitor: 0
+window_position: UR

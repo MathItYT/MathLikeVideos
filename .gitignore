@@ -17,3 +17,9 @@ editing.ipynb
 *.mp4
 aiclub.py
 .env
+beautiful_animations.py
+finals
+*.json
+thumbnails
+*.mp3
+token.pickle
