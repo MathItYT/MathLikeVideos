@@ -1,4 +1,5 @@
 venv
+.venv
 media
 __pycache__
 MathLikeVideos.egg-info
@@ -22,4 +23,5 @@ finals
 *.json
 thumbnails
 *.mp3
+*.png
 token.pickle
