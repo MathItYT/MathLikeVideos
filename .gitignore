@@ -9,6 +9,7 @@ temp
 out
 raster
 audio
+assets
 vector
 Makefile
 creature.py
@@ -23,5 +24,7 @@ finals
 *.json
 thumbnails
 *.mp3
+*.svg
 *.png
+*.jpg
 token.pickle

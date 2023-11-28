@@ -3,4 +3,4 @@ name = "MathLikeVideos"
 version = "0.0.1"
 
 [tool.setuptools]
-packages = ["mgl"]
+packages = ["mgl", "mce"]
